@@ -36,3 +36,7 @@ Untuk mempermudah penilaian submission yang dikirim, Anda perlu memahami ketentu
 ```
 
 Selamat mengerjakan dan sukses selalu!
+
+
+## 🌐 Live Demo
+[Klik di sini untuk melihat project](https://submission-bookshelf-dicoding.vercel.app/)
